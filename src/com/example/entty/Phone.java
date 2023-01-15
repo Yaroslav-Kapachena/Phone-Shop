@@ -27,13 +27,13 @@ public class Phone {
     public  String getModel(){
         return  model;
     }
-    public  void setModel(){
+    public  void setModel(String model){
         this.model= model;
     }
     public  String getName(){
         return name;
     }
-    public void setName(){
+    public void setName(String name){
         this.name = name;
     }
     public  String getFirstName(){
